@@ -1,0 +1,3 @@
+/command : Show all commands
+/userlist : Show all user name
+/exit : Stop chatting
